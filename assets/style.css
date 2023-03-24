@@ -1,0 +1,31 @@
+body{
+    font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    color: hsl(0, 0%, 13%);
+    background-color:white;
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    width: max-content;
+    margin: 10px;
+    text-align: center;
+}
+
+.section-title h2{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 28px;
+}
+
+.section-title h3{
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.menu-list h3 span{
+    margin-left: 10px;
+}
